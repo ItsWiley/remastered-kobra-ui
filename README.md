@@ -7,9 +7,9 @@ I am not responsible for any damage or malfunction caused to your printer becaus
 ### Features
 - Brand new UI look with a dark theme
 - Starting animation shortened to remove the fading to white
-- Improved buttons placements and size (bigger buttons for those who were too small and hard to tap)
+- Improved buttons placements and sizing
 - Improved translations for less ambiguity
-- Much better image compression for less artifacts (The default UI was really bad)
+- Much better image compression for less artifacts
 
 ### Known issues
 - The file selection menu text becomes blue after being deselected instead of white
